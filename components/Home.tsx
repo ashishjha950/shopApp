@@ -7,6 +7,8 @@ const Home = () => {
     { name: 'Huawei', image: 'https://e7.pngegg.com/pngimages/5/16/png-clipart-huawei-logo-screenshot-huawei-logo-electronics-android-phones-thumbnail.png' },
     { name: 'Samsung', image: 'https://i.pinimg.com/736x/95/f7/f6/95f7f6ea3bd90de8cb3e5bedcb4e1b15.jpg' },
     { name: 'Nokia', image: 'https://cdn.wallpapersafari.com/61/77/rmb5aB.jpg' },
+    { name: 'Samsung', image: 'https://i.pinimg.com/736x/95/f7/f6/95f7f6ea3bd90de8cb3e5bedcb4e1b15.jpg' },
+    { name: 'Nokia', image: 'https://cdn.wallpapersafari.com/61/77/rmb5aB.jpg' },
   ];
 
   const products = [
