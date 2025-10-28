@@ -3,12 +3,12 @@ import React from 'react';
 
 const Home = () => {
   const brands = [
-    { name: 'Apple', image: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg' },
-    { name: 'Huawei', image: 'https://e7.pngegg.com/pngimages/5/16/png-clipart-huawei-logo-screenshot-huawei-logo-electronics-android-phones-thumbnail.png' },
+    { name: 'Apple', image: 'https://fabrikbrands.com/wp-content/uploads/Apple-Logo-History-1-1155x770.png' },
+    { name: 'Huawei', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6V9Q5KCv2x-L1YrxnVDUwoEOykp35L4MTQ&s' },
     { name: 'Samsung', image: 'https://i.pinimg.com/736x/95/f7/f6/95f7f6ea3bd90de8cb3e5bedcb4e1b15.jpg' },
     { name: 'Nokia', image: 'https://cdn.wallpapersafari.com/61/77/rmb5aB.jpg' },
-    { name: 'Samsung', image: 'https://i.pinimg.com/736x/95/f7/f6/95f7f6ea3bd90de8cb3e5bedcb4e1b15.jpg' },
-    { name: 'Nokia', image: 'https://cdn.wallpapersafari.com/61/77/rmb5aB.jpg' },
+    { name: 'One Plus', image: 'https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_entreprise_OnePlus.png' },
+    { name: 'Vivo', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotV2QgOFVYi3-6KE02eVVesLjOEcT5jtmHw&s' },
   ];
 
   const products = [
